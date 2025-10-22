@@ -1,0 +1,8 @@
+body {
+  background-image: url('images/snowfield1.png'); /* Replace with your chosen file */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  color: #e5e5e5;
+}
